@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerAbout {
+  padding: 100px;
+  background-color: chartreuse;
+}
+
+.block {
+  width: 500px;
+  height: 500px;
+  background-color: blueviolet;
+}
